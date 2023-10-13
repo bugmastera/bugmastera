@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bugmastera
 - 👀 I’m interested in space
 - 🌱 I’m currently learning a lot of
-- 📫 How to reach me www.linkedin.com/ewelinawarwas
+- 📫 How to reach me ??
 
 <!---
 bugmastera/bugmastera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
